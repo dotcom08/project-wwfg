@@ -4,7 +4,7 @@ import Formulaire from '../components/Formulaire'
 export default function Home() {
   return (
 <div className="">
-  <h1 className="text-center my-16 font-bold text-4xl">Formulaire</h1>
+  <h1 className="text-center my-16 font-bold text-4xl">Formulaire de demande</h1>
   <Formulaire/>
 </div>
   );
